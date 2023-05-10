@@ -11,5 +11,11 @@ would have on the file.
 * Input:
 * ``grep -e science journal.pbio.0020001.txt``
 * Output:
-* ``![Image]()
+ ![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-09%20at%2010.20.23%20PM.png)
+* It seems that ``grep -e`` returns lots of sentences that contain the word ``science``. This command could be seen as useful to find a certain word or phrase within a huge body of text.
+* Example 2:
+* Input:
+* ``grep -e 2003 journal.pbio.0020001.txt``
+* Output:
+![Image](
     
