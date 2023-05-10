@@ -19,4 +19,10 @@ would have on the file.
 * Output:
 ![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-09%20at%2010.31.10%20PM.png)
 * ``grep -e`` continues to show that not only is it able to take in words to find a pattern, but can take in numbers and output lines with that exact numbers. This could also be seen as important if there is a case to find a certain number within a large body of text.
+
+**``-i``**
+* The first example that I did was using ``-i`` on the ``./technical`` file ``plos`` to be able to see the behavior or the action that ``-i`` would have on the file.
+* Input:
+* ``grep -i
+
     
