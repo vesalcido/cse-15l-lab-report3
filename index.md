@@ -31,6 +31,14 @@ would have on the file.
 * Input:
 * ``grep -i unesco journal.pbio.0020001.txt``
 * Output:
+![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-10%20at%205.34.24%20PM.png)
+* ``grep -i`` continues to show that regardless of the case that the user inputs, it'll still return the word your looking for in its original form, within the phrases and sentences of the text. This could be seen as important due to a case where you need to find a certain word and can type it in without it being case sensitive.
+
+**``-v``**
+* The first example that I did was using ``-v`` on the ``./technical`` file ``plos`` to be able to see the behavior or the action that ``-v`` would have on the file.
+* Input:
+* ``grep -v UNESCO journal.pbio.0020001.txt``
+* Output:
 ![Image](
 
     
