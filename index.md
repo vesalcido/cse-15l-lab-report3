@@ -39,6 +39,12 @@ would have on the file.
 * Input:
 * ``grep -v UNESCO journal.pbio.0020001.txt``
 * Output:
+![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-10%20at%205.47.45%20PM.png)
+* ``grep -v`` seems to return lots of sentences and paragraphs that don't contain the word that I originally inputed. So, lots of the origianl text is returned but without certain sentences.
+* Example 2:
+* Input:
+* ``grep -v 2 journal.pbio.0020001.txt`` 
+* Outpt:
 ![Image](
 
     
