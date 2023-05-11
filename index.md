@@ -25,6 +25,12 @@ would have on the file.
 * Input:
 * ``grep -i Example jouranl.pbio.0020001.txt``
 * Output:
+![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-10%20at%205.25.05%20PM.png)
+* ``grep -i`` seems to return instances where that certain word is found regardless of what case my input is in. Essentially its ignoring the uppercase and still finding the word in the body of text.
+* Example 2:
+* Input:
+* ``grep -i unesco journal.pbio.0020001.txt``
+* Output:
 ![Image](
 
     
