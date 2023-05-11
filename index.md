@@ -45,6 +45,14 @@ would have on the file.
 * Input:
 * ``grep -v 2 journal.pbio.0020001.txt`` 
 * Outpt:
+![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-10%20at%206.01.31%20PM.png)
+* ``grep -v`` continues to show that regardless of a phrase or number input, the output would still be large body of the text without the actual input found within the text. This could be seen as important due to a case where a user would want to exclude phrases with certain words or numbers, in which they could use this command to get rid of the unwanted phrases.
+
+**``-c``**
+* The first example that I did was using ``-c`` on the ``./technical`` file ``plos`` to be able to see the behavior or the action that ``-c`` would have on the file.
+* Input:
+* ``grep -c UNESCO journal.pbio.0020001.txt``
+* Output:
 ![Image](
 
     
