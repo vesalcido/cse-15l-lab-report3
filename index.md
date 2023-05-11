@@ -59,6 +59,12 @@ would have on the file.
 * Input:
 * ``grep -c 10% journal.pbio.0020001.txt``
 * Output:
-![Image](
+![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-10%20at%206.27.51%20PM.png)
+* ``grep -c`` continues to show that regardless of your input being a phrase or numbers, the output will still be a number representing how many times that specific phrase has showed up in the text. This could be important due to wanting to know how many times you have included a certain phrase or number in a certain case.
+
+## Sources Cited
+* [Grep WikiBooks Link](https://en.wikibooks.org/wiki/Grep)
+* [ChatGPT Link](https://chat.openai.com/?model=text-davinci-002-render-sha)
+
 
     
