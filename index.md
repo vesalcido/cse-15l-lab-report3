@@ -51,7 +51,13 @@ would have on the file.
 **``-c``**
 * The first example that I did was using ``-c`` on the ``./technical`` file ``plos`` to be able to see the behavior or the action that ``-c`` would have on the file.
 * Input:
-* ``grep -c UNESCO journal.pbio.0020001.txt``
+* ``grep -c rather journal.pbio.0020001.txt``
+* Output:
+![Image](https://github.com/vesalcido/cse-15l-lab-report3/blob/main/Screen%20Shot%202023-05-10%20at%206.21.44%20PM.png)
+* ``grep -c`` seems to return a number to indicate how many times the word inputed shows up in the body of text.
+* Example 2:
+* Input:
+* ``grep -c 10% journal.pbio.0020001.txt``
 * Output:
 ![Image](
 
