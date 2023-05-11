@@ -23,6 +23,8 @@ would have on the file.
 **``-i``**
 * The first example that I did was using ``-i`` on the ``./technical`` file ``plos`` to be able to see the behavior or the action that ``-i`` would have on the file.
 * Input:
-* ``grep -i
+* ``grep -i Example jouranl.pbio.0020001.txt``
+* Output:
+![Image](
 
     
