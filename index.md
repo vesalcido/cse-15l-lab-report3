@@ -505,10 +505,10 @@ grep -c 10% journal.pbio.0020001.txt
 ## Sources Cited
 * [Grep WikiBooks Link](https://en.wikibooks.org/wiki/Grep)
 * [ChatGPT Link](https://chat.openai.com/?model=text-davinci-002-render-sha)
-* ![Image]()
-* ![Image]()
-* ![Image]()
-* ![Image]()
+* ![Image](grep-e.png)
+* ![Image](grep-i.png)
+* ![Image](grep-v.png)
+* ![Image](grep-c.png)
 
 
     
